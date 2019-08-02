@@ -11,8 +11,8 @@ cloud:
      uri: https://github.com/1604263652/sp.config.git
            # uri: https://github.com/1604263652/sp.config.git
      searchPaths: config
-     username: 1604263652
-     password: scr199387
+    # username: 1604263652
+     #password: scr199387
     
 server:
   port: 6001
